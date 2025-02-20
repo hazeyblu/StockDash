@@ -1,0 +1,12 @@
+#
+####### Streamlit requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+pandas
+numpy
+streamlit
+matplotlib
+datetime
+plotly
+scipy
+#
